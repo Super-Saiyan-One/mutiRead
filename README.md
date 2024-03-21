@@ -1,7 +1,7 @@
 # mutiRead
 guide
 -----------------------------------------------------------------------------------------------
-filename为原prompt文件路径
+filename为原prompt文件路径 \n
 result_filename为生成结果文件路径
 num_threads为线程个数
 
